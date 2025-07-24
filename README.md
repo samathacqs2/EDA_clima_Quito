@@ -1,4 +1,4 @@
-# Tarea 1
+# Tarea 1 - EDA condiciones climaticas Quito
 
 Hemos recuperado datos acerca del clima en el sector de La Carolina para una semana.  
 Estos datos muestran el comportamiento predicho de distintas variables durante ese período. En este informe observaremos: temperatura, sensación térmica, velocidad del viento, humedad e índice de radiación UV.
